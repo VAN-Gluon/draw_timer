@@ -25,3 +25,8 @@
 
 ## 動かない場合
 「使い方」の1.を参考に、もう一度ファイルの配置を見直して下さい。
+
+## TIPS
+
+- Windows 10 Home(22H2)で動作確認しています。
+- CLIP STUDIO TABMATEで操作したい場合、JoyToKey( https://joytokey.net/ja/ )等を経由してご利用下さい。
