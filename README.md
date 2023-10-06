@@ -32,3 +32,15 @@
 
 - Windows 10 Home(22H2)で動作確認しています。
 - CLIP STUDIO TABMATEで操作したい場合、JoyToKey( https://joytokey.net/ja/ )等を経由してご利用下さい。
+
+## 使用ライブラリー
+
+このソフトは下記のライブラリーを使用して開発されています。
+Name                       Version   License                                                         URL                                                       Description                                                                              
+altgraph                   0.17.4    MIT License                                                     https://altgraph.readthedocs.io                           Python graph (network) package                                                           
+keyboard                   0.13.5    MIT License                                                     https://github.com/boppreh/keyboard                       Hook and simulate keyboard events on Windows and Linux                                   
+pefile                     2023.2.7  MIT                                                             https://github.com/erocarrera/pefile                      Python PE parsing module                                                                 
+pyinstaller                5.13.0    GNU General Public License v2 (GPLv2)                           https://www.pyinstaller.org/                              PyInstaller bundles a Python application and all its dependencies into a single package. 
+pyinstaller-hooks-contrib  2023.9    Apache Software License; GNU General Public License v2 (GPLv2)  https://github.com/pyinstaller/pyinstaller-hooks-contrib  Community maintained hooks for PyInstaller                                               
+pywin32-ctypes             0.2.2     BSD-3-Clause                                                    https://github.com/enthought/pywin32-ctypes               A (partial) reimplementation of pywin32 using ctypes/cffi                                
+simpleaudio                1.0.4     MIT License                                                     https://github.com/hamiltron/py-simple-audio              Simple, asynchronous audio playback for Python 3.                                        
