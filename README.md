@@ -35,12 +35,4 @@
 
 ## 使用ライブラリー
 
-このソフトは下記のライブラリーを使用して開発されています。
-Name                       Version   License                                                         URL
-altgraph                   0.17.4    MIT License                                                     https://altgraph.readthedocs.io
-keyboard                   0.13.5    MIT License                                                     https://github.com/boppreh/keyboard
-pefile                     2023.2.7  MIT                                                             https://github.com/erocarrera/pefile
-pyinstaller                5.13.0    GNU General Public License v2 (GPLv2)                           https://www.pyinstaller.org/
-pyinstaller-hooks-contrib  2023.9    Apache Software License; GNU General Public License v2 (GPLv2)  https://github.com/pyinstaller/pyinstaller-hooks-contrib
-pywin32-ctypes             0.2.2     BSD-3-Clause                                                    https://github.com/enthought/pywin32-ctypes
-simpleaudio                1.0.4     MIT License                                                     https://github.com/hamiltron/py-simple-audio
+このソフトの開発に使用したライブラリーについては、ThirdPartyNotices.txtをご覧下さい。
